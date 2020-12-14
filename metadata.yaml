@@ -1,0 +1,26 @@
+_repo: 1970-A-Vision-of-the-Coming-Age_63980
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, John
+    birthdate: 1814
+    deathdate: 1902
+    gutenberg_agent_id: '52692'
+    url: http://www.gutenberg.org/2009/agents/52692
+description: ''
+gutenberg_issued: '2020-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopias -- Poetry'
+- !lcsh 'Christian poetry'
+- !lcc 'PS'
+- !lcsh 'Voyages, Imaginary -- Poetry'
+- GITenberg
+title: '1970: A Vision of the Coming Age'
+url: http://www.gutenberg.org/ebooks/63980
